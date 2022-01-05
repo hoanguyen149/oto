@@ -1,0 +1,59 @@
+.menu{
+    display: flex;
+    background-color: wheat;
+    height: 40px;
+    width: 705px;
+}
+.trai a{
+    text-decoration: none;
+    margin-left: 10px;
+    
+}
+.phai a{
+    text-decoration: none;
+    margin-left: 350px;
+    padding-right: 10px;
+}
+.trai{
+    margin-top: 10px;
+}
+.phai{
+    margin-top: 10px;
+}
+.hinhanh img{
+    width: 710px;
+    
+}
+.cuoi{
+    display: flex;
+    width: 710px;
+}
+.cuoi .bangtrai li{
+    list-style: none;
+    color: blue;
+    width: 150px;
+    height: 25px;
+    margin-left: -40px;
+    border: 1px solid rgb(49, 95, 225);
+}
+.bangphai img{
+    width: 170px;
+ /* padding-left: 230px; */
+    margin-top: -10px;
+}
+.bangphai p{
+    width: 400px;
+    color: red;
+    font-size: 20px;
+    margin-top: -5px;
+    /* padding-left: 210px; */
+}
+.bangtrai{
+    margin-top: -15px;
+}
+.bangphai{
+    margin-top: -15px;
+    text-align: center;
+    border-bottom: 2px solid red;
+    margin: 0 auto;
+}
